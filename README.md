@@ -6,7 +6,8 @@ This is a repo for housing my personal portfolio website built using Deno Fresh.
 
 ### Run Locally
 
-Make sure to install Deno: [https://deno.land/manual/getting_started/installation]
+Make sure to install Deno:
+[https://deno.land/manual/getting_started/installation]
 
 Then start the project:
 
