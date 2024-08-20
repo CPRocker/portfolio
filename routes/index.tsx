@@ -1,3 +1,5 @@
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+
 export default function Home() {
   return (
     <div class="px-4 py-8 mx-auto bg-sky-300">
@@ -13,6 +15,10 @@ export default function Home() {
         <p class="my-4">
           This site is dedicated to my life as a developer.
         </p>
+      </div>
+      <div class="flex flex-row gap-2 items-center">
+        <a href="https://www.linkedin.com/in/carson-price-0041a1221" target="_blank"><FaLinkedin size={32} /></a>
+        <a href="https://github.com/CPRocker" target="_blank"><FaGithub size={32} /></a>
       </div>
     </div>
   );
